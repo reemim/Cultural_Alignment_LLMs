@@ -15,14 +15,15 @@ This repository aims to:
 - [How to Contribute](#how-to-contribute)
 
 ## Papers
-Here, you'll find a curated list of academic papers, articles, and publications that delve into the intersections of AI, Language Models, and cultural value alignment.
+Here, you'll find a curated list of academic papers, articles, and publications that explore the intersections of AI, Language Models, and cultural value alignment.
 
 ### 2023
-- [Should ChatGPT be Biased? Challenges and Risks of Bias in Large Language Models](https://arxiv.org/pdf/2304.03738.pdf)
-- [Cultural Alignment in Large Language Models: An Explanatory Analysis Based on Hofstede's Cultural Dimensions](https://arxiv.org/abs/2309.12342)
-- [Whose Opinions Do Language Models Reflect?](https://arxiv.org/pdf/2303.17548.pdf)
-- [In Conversation with Artificial Intelligence: Aligning Language Models with Human Values](https://link.springer.com/article/10.1007/s13347-023-00606-x)
-- [Probing Pre-Trained Language Models for Cross-Cultural Differences in Values](https://arxiv.org/abs/2203.13722)
+- (8-2023) [Group Preference Optimization: Few-Shot Alignment of Large Language Models](https://arxiv.org/abs/2310.11523)
+- (8-2023) [Cultural Alignment in Large Language Models: An Explanatory Analysis Based on Hofstede's Cultural Dimensions](https://arxiv.org/abs/2309.12342)
+- (4-2023) [Should ChatGPT be Biased? Challenges and Risks of Bias in Large Language Models](https://arxiv.org/pdf/2304.03738.pdf)
+- (4-2023) [In Conversation with Artificial Intelligence: Aligning Language Models with Human Values](https://link.springer.com/article/10.1007/s13347-023-00606-x)
+- (3-2034) [Whose Opinions Do Language Models Reflect?](https://arxiv.org/pdf/2303.17548.pdf)
+- (3-2023) [Probing Pre-Trained Language Models for Cross-Cultural Differences in Values](https://arxiv.org/abs/2203.13722)
 
 ### 2022
 - [Cultural Incongruencies in Artificial Intelligence](https://arxiv.org/pdf/2211.13069.pdf)
