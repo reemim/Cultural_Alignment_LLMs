@@ -21,7 +21,6 @@ Here, you'll find a curated list of academic papers, articles, and publications 
 - [Should ChatGPT be Biased? Challenges and Risks of Bias in Large Language Models](https://arxiv.org/pdf/2304.03738.pdf)
 - [Cultural Alignment in Large Language Models: An Explanatory Analysis Based on Hofstede's Cultural Dimensions](https://arxiv.org/abs/2309.12342)
 - [Whose Opinions Do Language Models Reflect?](https://arxiv.org/pdf/2303.17548.pdf)
-- [The Myth of Culturally Agnostic AI Models](https://arxiv.org/ftp/arxiv/papers/2211/2211.15271.pdf)
 - [In Conversation with Artificial Intelligence: Aligning Language Models with Human Values](https://link.springer.com/article/10.1007/s13347-023-00606-x)
 - [Probing Pre-Trained Language Models for Cross-Cultural Differences in Values](https://arxiv.org/abs/2203.13722)
 
