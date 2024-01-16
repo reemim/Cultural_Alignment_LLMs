@@ -41,7 +41,7 @@ Here, you'll find a curated list of academic papers, articles, and publications 
 - [UNQOVERing Stereotypical Biases via Underspecified Questions](https://arxiv.org/abs/2010.02428)
 
 ### 2019
--[Assessing Social and Intersectional Biases in Contextualized Word Representations](https://arxiv.org/abs/1911.01485)
+- [Assessing Social and Intersectional Biases in Contextualized Word Representations](https://arxiv.org/abs/1911.01485)
 
 
 ## Conferences and Workshops
