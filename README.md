@@ -18,13 +18,20 @@ This repository aims to:
 ## Papers
 Here, you'll find a curated list of academic papers, articles, and publications that explore the intersections of AI, Language Models, and cultural value alignment.
 
+### 2024
+- (2-2024) [Investigating Cultural Alignment of Large Language Models](https://arxiv.org/abs/2402.13231)
+- (2-2024) [CIDAR: Culturally Relevant Instruction Dataset For Arabic](https://arxiv.org/abs/2402.03177)
 ### 2023
+- (11-2023) [CDEval: A Benchmark for Measuring the Cultural Dimensions of Large Language Models](https://arxiv.org/abs/2311.16421)
 - (8-2023) [Group Preference Optimization: Few-Shot Alignment of Large Language Models](https://arxiv.org/abs/2310.11523)
 - (8-2023) [Cultural Alignment in Large Language Models: An Explanatory Analysis Based on Hofstede's Cultural Dimensions](https://arxiv.org/abs/2309.12342)
-- (8-2023 [Unmasking Nationality Bias: A Study of Human Perception of Nationalities in AI-Generated Articles] (https://arxiv.org/abs/2308.04346)
+- (8-2023  [Unmasking Nationality Bias: A Study of Human Perception of Nationalities in AI-Generated Articles] (https://arxiv.org/abs/2308.04346)
+- (5-2023) [Training Socially Aligned Language Models on Simulated Social Interactions](https://arxiv.org/abs/2305.16960)
+- (5-2023) [Having Beer after Prayer? Measuring Cultural Bias in Large Language Models](https://arxiv.org/abs/2305.14456)
 - (4-2023) [Should ChatGPT be Biased? Challenges and Risks of Bias in Large Language Models](https://arxiv.org/pdf/2304.03738.pdf)
 - (4-2023) [In Conversation with Artificial Intelligence: Aligning Language Models with Human Values](https://link.springer.com/article/10.1007/s13347-023-00606-x)
 - (3-2034) [Whose Opinions Do Language Models Reflect?](https://arxiv.org/pdf/2303.17548.pdf)
+- (3-2023) [Assessing Cross-Cultural Alignment between ChatGPT and Human Societies: An Empirical Study](https://arxiv.org/abs/2303.17466)
 - (3-2023) [Probing Pre-Trained Language Models for Cross-Cultural Differences in Values](https://arxiv.org/abs/2203.13722)
 - (2-2023) [Nationality Bias in Text Generation](https://arxiv.org/abs/2302.02463)
 
@@ -32,7 +39,6 @@ Here, you'll find a curated list of academic papers, articles, and publications 
 - [Cultural Incongruencies in Artificial Intelligence](https://arxiv.org/pdf/2211.13069.pdf)
 - [The Myth of Culturally Agnostic AI Models](https://arxiv.org/ftp/arxiv/papers/2211/2211.15271.pdf)
 - [French CrowS-Pairs: Extending a challenge dataset for measuring social bias in masked language models to a language other than English](https://aclanthology.org/2022.acl-long.583/)
-- 
 
 ### 2021
 - [Gender bias, social bias, and representation in Bollywood and Hollywood](https://www.sciencedirect.com/science/article/pii/S266638992100283X)
