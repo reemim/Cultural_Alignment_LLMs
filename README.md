@@ -2,7 +2,7 @@
 
 ## Introduction
 Welcome to our repository dedicated to the collection of research and papers on cultural alignment alignment in Language Models. This compilation serves as a vital resource in understanding and ensuring the development of models that respect and integrate diverse cultural norms and values.
-[culturalalignment.ai](culturalalignment.ai)
+([culturalalignment.ai](https://culturalalignment.ai/))
 
 ### Purpose
 This repository aims to:
